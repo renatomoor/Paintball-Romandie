@@ -1,0 +1,14 @@
+
+
+//adding new colors  ::::: ESTO ES LO QUE NECESITO RESOLVER :::::
+$theme-colors: (
+  "brown": #754F44,
+  "light-red": #EC7357,
+  "peach-orange": #FDD692,
+  "pale-yellow": #FBFFB9,
+  "straw": #E1CE7A
+);
+
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+@import "node_modules/bootstrap/scss/mixins";
